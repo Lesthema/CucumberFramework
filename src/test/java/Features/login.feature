@@ -4,3 +4,4 @@ Feature: Login
     And user enters username and password
     And user click submit button
     Then Home page is displayed
+    And Browser is closed

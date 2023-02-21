@@ -39,6 +39,5 @@ public class BrowserFactory {
         return driver;
     }
 
-    public static void teardown(){ driver.quit(); }
 
 }
